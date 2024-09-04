@@ -63,7 +63,7 @@
 > - Language : Java  
 > - Skill : SpringBoot, MySQL
 >
-> [프로젝트 상세 설명](https://github.com/ksy2653/Cinelab)
+> [프로젝트 상세 설명(Cinelab)](https://github.com/ksy2653/Cinelab)
 
 <br />
 
