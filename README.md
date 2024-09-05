@@ -27,7 +27,7 @@
 >> - Language : Java  
 >> - Skill : SpringBoot, Hibernate, AWS EC2, Github Actions
 >> 
->> [프로젝트 상세 설명(HISKIN)](https://github.com/ksy2653/HISKIN)  
+>> [프로젝트 상세 설명(HISKIN)](https://github.com/ksy2653/HI-SKIN)  
 >
 <br />
 
